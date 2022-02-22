@@ -1,0 +1,6 @@
+1;01/10/2021 03:05;estoques;joao,maria,jose,ana
+2;01/10/2021 03:05;pagamentos;joao,maria,jose,ana
+3;01/10/2021 03:05;custos;joao,maria,paulo
+4;01/10/2021 03:05;pagamentos;joao,maria
+5;01/10/2021 03:05;pagamentos;jose,ana
+6;01/10/2021 03:05;limpeza;joao,maria,jose,ana
